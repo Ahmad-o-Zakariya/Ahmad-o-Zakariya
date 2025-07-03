@@ -47,15 +47,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-o-Zakariya&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-o-Zakariya&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 
 - ✉️ Email: [zakariyahmad2@gmail.com](mailto:ahmadzakariya.jk@gmail.com)
