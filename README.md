@@ -49,7 +49,7 @@
 
 ### 📫 Connect with Me
 
-- ✉️ Email: [zakariyahmad2@gmail.com](mailto:ahmadzakariya.jk@gmail.com)
+- ✉️ Email: [ahmadzakariya.jk@gmail.com](mailto:ahmadzakariya.jk@gmail.com)
 - 💼 LinkedIn: [Ahmad Zakariya](https://www.linkedin.com/in/ahmad-zakariya-482567323)
 - 🧑‍💻 GitHub: [Ahmad-o-Zakariya](https://github.com/Ahmad-o-Zakariya)
 
