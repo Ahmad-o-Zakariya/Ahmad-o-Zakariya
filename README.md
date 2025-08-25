@@ -8,7 +8,6 @@
 ### 💼 About Me
 
 - I'm an undergraduate Mechanical Engineering student at **ZHCET, AMU**, and currently pursuing a **BS in Data Science** from **IIT Madras** (Diploma level).
-- Working as a **Business Analyst Intern** at a small-to-medium scale firm in **Udaipur, Rajasthan** (hybrid).
 - I enjoy building front-end interfaces and scraping data to further analyze.
 - Currently learning **Machine Learning**, **Backend development**, and **Machine Design**.
 
